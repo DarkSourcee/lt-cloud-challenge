@@ -1,0 +1,17 @@
+node_modules
+vendor
+.git
+.env
+.env.*
+!.env.example
+tests
+storage/logs
+storage/framework/cache
+storage/framework/sessions
+storage/framework/testing
+storage/framework/views
+.phpunit.cache
+*.log
+.DS_Store
+Thumbs.db
+
